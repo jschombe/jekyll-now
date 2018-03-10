@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Post Alpha
+title: You're up and running!
 ---
+This blog will be about bioinformatics
 
-This is is my first post on this blog just trying it out.  seems pretty straight forward.
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-It seems like this worked.
+#![_config.yml]({{ site.baseurl }}/images/config.png)
