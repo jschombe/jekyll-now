@@ -1,7 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: First Bioinformatics Post!
 ---
+
 This blog will be about bioinformatics
 
 #![_config.yml]({{ site.baseurl }}/images/config.png)
