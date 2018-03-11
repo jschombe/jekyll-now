@@ -156,10 +156,12 @@ plt.title('Errors in Linear Regression')
 plt.show()
 ```
 
-
-
+```
+Image(url='http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png')
+```
+```
 <img src="http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png"/>
-
+```
 _Choosing a Loss Function to Optimize_
 
 Historically Linear Regression has been solved using the method of Least Squares where we are interested in minimizing the mean squared error loss function of the form:
