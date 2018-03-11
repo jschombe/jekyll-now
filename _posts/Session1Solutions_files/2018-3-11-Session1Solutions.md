@@ -164,7 +164,7 @@ import matplotlib.pyplot as plt
 %matplotlib inline
 Image(url="http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png")
 ```
-<img src="http://datascience.uci.edu/wp-content/uploads/sites/2/2014/09/data_science_logo_with_image1.png"/>
+<img src="http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png"/>
 
 _Choosing a Loss Function to Optimize_
 
