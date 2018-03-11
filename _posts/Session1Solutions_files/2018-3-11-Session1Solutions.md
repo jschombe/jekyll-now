@@ -157,7 +157,7 @@ plt.show()
 ```
 
 
-![png](jschombe.github.io/_posts/Session1Solutions_files/Session1Solutions_4_0.png)
+![png](jschombe/jschombe.github.io/_posts/Session1Solutions_files/Session1Solutions_4_0.png)
 
 
 _Choosing a Loss Function to Optimize_
