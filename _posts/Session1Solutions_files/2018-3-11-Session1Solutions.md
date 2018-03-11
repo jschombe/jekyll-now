@@ -466,8 +466,7 @@ plt.show()
 ```
 
 
-![png](Session1Solutions_files/Session1Solutions_12_0.png)
-
+<img src="https://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_12_0.png"/>
 
 
 ```python
@@ -791,8 +790,7 @@ print lmr.coef_, lmr.intercept_
 ```
 
 
-![png](Session1Solutions_files/Session1Solutions_25_0.png)
-
+<img src="https://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_25_0.png"/>
 
     [[ 0.26827489]] [ 1.23701501]
     
@@ -826,8 +824,7 @@ print lmr2.coef_, lmr2.intercept_
 ```
 
 
-![png](Session1Solutions_files/Session1Solutions_27_0.png)
-
+<img src="https://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_27_0.png"/>
 
     [ 0.01513353] 5.13051681568
     
