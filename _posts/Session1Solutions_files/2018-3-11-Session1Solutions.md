@@ -157,7 +157,12 @@ plt.show()
 ```
 
 ``` python
-Image(url='http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png')
+from IPython.display import Image
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+Image(url="http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png")
 ```
 
 <img src="http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png"/>
