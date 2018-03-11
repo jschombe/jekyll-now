@@ -157,7 +157,7 @@ plt.show()
 ```
 
 
-![png](/_posts/Session1Solutions_files/Session1Solutions_4_0.png)
+![png](/Session1Solutions_files/Session1Solutions_4_0.png)
 
 
 _Choosing a Loss Function to Optimize_
