@@ -156,8 +156,7 @@ plt.title('Errors in Linear Regression')
 plt.show()
 ```
 
-``` 
-python
+``` python
 Image(url='http://github.com/jschombe/jschombe.github.io/blob/master/_posts/Session1Solutions_files/Session1Solutions_4_0.png')
 ```
 
